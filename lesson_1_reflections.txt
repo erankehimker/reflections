@@ -1,0 +1,41 @@
+i have alreadyt worked with version managment in my time as an abap programmer
+can be very helpfuul sometimes....but i would like to become better in this
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+many ways i guess
+code can become very big and complicated.which will make findind error very complicated
+and somethmes it will take hours or dayto fix a bug
+this way we can at least go back and undo our changes as a first step
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google docs does?
+
+
+i thiks the idea of every entry in the commit list is a logical change
+is crucial..the habbit of commiting manually is easy to adapt to
+and this is much more valuable them autosave with no logical diffrence
+plus will also make a list of comiits to big
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+i can only guess the for instance google doc assuming there is no logical connection
+between each file...and if there is then its the users responsbility to adress that
+and git..working with programming code realize the some files are connc
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+many ways....
+
+
+How might using version control make you more confident to make changes that could break something?
+
+alot i guess
