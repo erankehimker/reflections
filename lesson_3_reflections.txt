@@ -2,3 +2,10 @@ When would you want to use a remote repository rather than keeping all your work
 
 i guess the best working version of the program
 so that other users will be able to comment on that version
+
+
+Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository?
+
+since it look like few people can work on the same project 
+you might want to have control on when to pull/push

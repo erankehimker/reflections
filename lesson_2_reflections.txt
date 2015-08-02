@@ -7,3 +7,28 @@ How is the staging area different from the working directory and the repository?
 
 i thinks i makes it easey to see only the lgical changes in every commit
 makes it easeir to look at logs and diff's
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+its easy with the stageing are because this way
+if a change is also in few files i can only work on them in the staging area and save them
+as a logical change
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+it helps if you want to try diffrent things and not harm the other ones
+
+
+How do the diagrams help you visualize the branch structure?
+much better i guess...i understand now how you can work on many things on the same project at once
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+i dont remember how we represnt it in the diagram right now...
+but merging is great! great for working on diffrent thing...or diffrent people and shit
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+aotu is great and fast
+but manually you are the contax master and now what was made or changed and what do you want to keep in each branch
